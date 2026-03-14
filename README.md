@@ -1,6 +1,6 @@
 # BookBot
 
-BookBot is a small Python command-line tool that analyzes a text file and prints:
+BookBot is a Python command-line tool that analyzes a text file and prints:
 
 - total word count
 - character frequency counts (alphabetic characters only)
